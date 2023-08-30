@@ -1,4 +1,4 @@
-<h1 align='center'>BAOLG</h1>
+c<h1 align='center'>BAOLG</h1>
 
 <p align='center'>
   Myriad is a Decentralized Ecosystem, built upon a backbone of interconnected "Central Nodes". BAOLG is one such node within that Decentralized Ecosystem, and has its <a href="https://myriad-central.netlify.app">UPLINK NODE HERE</a> 

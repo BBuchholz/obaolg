@@ -37,9 +37,9 @@ const { t } = useI18n()
         {{ t('button.go') }}
       </button>
     </div>
-    <img alt="Myriad Central Node logo" :src="isDark ? '/BAOLG_BNG_LOGO.png' : '/BAOLG_WD_LOGO.jpg'">
+    <img alt="Myriad Central Node logo" :src="isDark ? '/OBAOLG_DARK_LOGO.png' : '/OBAOLG_LIGHT_LOGO.png'">
     <p>
-      <em text-sm opacity-75>You are currently at BAOLG Central Node within the Myriad Ecosystem, if you stumbled here by mistake, you're best bet is to head over to <a href="https://myriad-central.netlify.app">Myriad Central</a> and check the docs for an introduction (this is a BUILDERS site and basic infrastructure familiarity is ASSUMED)</em>
+      <em text-sm opacity-75>You are currently at OBAOLG Central Node within the Myriad Ecosystem, CG SubDivision, if you stumbled here by mistake, you're best bet is to head over to <a href="https://myriad-central.netlify.app">Myriad Central</a> and check the docs for an introduction (this is a BUILDERS site and basic infrastructure familiarity is ASSUMED)</em>
     </p>
   </div>
 </template>
