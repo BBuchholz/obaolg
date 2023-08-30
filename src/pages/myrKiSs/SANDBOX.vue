@@ -15,7 +15,7 @@ const allCards = ref([
 <template>
   <h1>"begIN THA WORKSHOP"</h1>
   <p mt-4 text-sm>
-    AL BUILDERS know that the ESSENCE of BUILDING is in DELIVERABLES, so here will be your WORKSHOP for all GUILD PROJECKTS going forward. You will be expected to link each project here for review when ready and in doing so a portfolio of ARTIFACTS will arise... WELLcome 2 THA BAOLG!
+    AL BUILDERS know that the ESSENCE of BUILDING is in DELIVERABLES, so here will be your WORKSHOP for all GUILD PROJECKTS going forward. You will be expected to link each project here for review when ready and in doing so a portfolio of ARTIFACTS will arise... WELLcome 2 OBAOLG!
   </p>
   <div class="card">
     <img src="/SANDBOX-257e_CARD.png">

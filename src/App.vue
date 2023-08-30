@@ -3,9 +3,9 @@
 // you can use this to manipulate the document head in any components,
 // they will be rendered correctly in the html results with vite-ssg
 useHead({
-  title: 'BAOLG',
+  title: 'OBAOLG',
   meta: [
-    { name: 'description', content: 'Builders Association Ov Layered Generalists' },
+    { name: 'description', content: 'OUR Builders Association Ov Layered Generalists' },
     {
       name: 'theme-color',
       content: computed(() => isDark.value ? '#00aba9' : '#ffffff'),

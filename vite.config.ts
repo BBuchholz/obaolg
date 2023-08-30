@@ -101,8 +101,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'Builders Association Ov Layered Generalists',
-        short_name: 'BAOLG',
+        name: 'OUR Builders Association Ov Layered Generalists',
+        short_name: 'OBAOLG',
         theme_color: '#ffffff',
         icons: [
           {
