@@ -1,7 +1,7 @@
 <template>
   <h1>"PANDAEMONIUM STUDIO"</h1>
   <p>
-    HISTORY GOES HERE
+    HISTORY GOES HERE (see previous version <a href="https://pandaemonium.netlify.app/">here</a>)
   </p>
   <p>---</p>
   <p>WHEN LIVE, LINK WILL BE PLACED HERE</p>
@@ -14,7 +14,7 @@
     if your interest is piqued
   </p>
   <div class="card">
-    <a href="https://pandaemonium.netlify.app/" target="_blank">
+    <a href="https://pndmn.netlify.app/" target="_blank">
       <img src="/PNDMN-0813_CARD.png">
     </a>
   </div>
