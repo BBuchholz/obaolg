@@ -2,37 +2,37 @@
   <div class="spiel">
     <p>---</p>
 
-    <h5>B.A.O.L.G.</h5>
+    <h5>O.B.A.O.L.G.</h5>
 
-    <h1>Beneficent Ambience Ov Learning Guided</h1>
+    <h1>Our Beneficence izTha Ambiance Ov Learning WE Guide</h1>
 
-    <h1>Bountiful Activity Ov Legitimate Growth</h1>
+    <h1>Our Bounty izTha Activity Ov Legitimacy WE Grow</h1>
 
-    <h1>Better Awakening Ov Liberty Greeted</h1>
+    <h1>Our Betterment izTha Awakening Ov Liberations WE Greet</h1>
 
-    <h1>Building Associations Ov Layers Goaded</h1>
+    <h1>Our Building izTha Associations Ov Layers WE Goad</h1>
+
+    <h1>Our Bondage izTha Acknowledgement Ov Lifetimes WE Give</h1>
 
     <p>---</p>
 
-    <h1>B.B.B.B.</h1>
+    <h1>The Four Pillars (BALG) (or "What, Where, When, and Why?")</h1>
 
-    <h5>Beneficently Bountiful Betterment Builds</h5>
+    <h1>Where WE B...</h1>
 
-    <h1>A.A.A.A.</h1>
+    <h5>Beneficently Bountiful Betterment Building Bondage (tha Bet)</h5>
 
-    <h5>Ambient Activity Awakens Associations</h5>
+    <h1>What WE A...</h1>
 
-    <h1>Ov.Ov.Ov.Ov.</h1>
+    <h5>Ambient Activity Awakening Associations Acknowledgement (tha Alef)</h5>
 
-    <h5>(a secret is here for the aspirant)</h5>
+    <h1>Why WE L...</h1>
 
-    <h1>L.L.L.L.</h1>
+    <h5>Learning LEGITIMATE Liberations Layers Lifetimes (tha Lamed)</h5>
 
-    <h5>Learning Legitimately Liberates Layers</h5>
+    <h1>When WE G...</h1>
 
-    <h1>G.G.G.G.</h1>
-
-    <h5>Guided Growing Greets Goading</h5>
+    <h5>Guide Grow Greet Goad Give (tha Gimel)</h5>
 
     <p>---</p>
   </div>
